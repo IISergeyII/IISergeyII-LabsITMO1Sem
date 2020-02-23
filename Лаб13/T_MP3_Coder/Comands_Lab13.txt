@@ -1,0 +1,11 @@
+cd C:\D\Projects\C\Lab_13_Test_1\cmake-build-debug
+cd C:\D\Projects\C\CLine\LAB_13\cmake-build-debug
+
+Lab_13_Test_1.exe --filepath=Song1.mp3 --show
+LAB_13.exe --filepath=Song1.mp3 --show
+
+Lab_13_Test_1.exe --filepath=Song1.mp3 --set=TIT2 --value=TEST
+
+
+
+
