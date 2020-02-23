@@ -3,15 +3,15 @@
 1. [Разработка консольного приложения](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab01)
 2. [Расчёт значения функции в заданной точке](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab02)
 3. [Представление чисел в различных системах счисления и битовые операции](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab03)
-4. [Логические операции]
-5. [Массивы]
-6. [Указатели и динамическая память]
-7. [Типы данных, определяемые пользователем]
-8. [Работа со строками]
-9. [Циклы и ветвления]
-10. [Функции]
-11. [Использование заголовочных файлов]
-12. [Операции ввода-вывода]
-13. [Редактор метаинформации mp3-файла]
-14. [Игра жизнь]
-15. [Архиватор]
+4. [Логические операции](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab04)
+5. [Массивы](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab05)
+6. [Указатели и динамическая память](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab06)
+7. [Типы данных, определяемые пользователем](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab07)
+8. [Работа со строками](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab08)
+9. [Циклы и ветвления](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab09)
+10. [Функции](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab10)
+11. [Использование заголовочных файлов](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab11)
+12. [Операции ввода-вывода](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab12)
+13. [Редактор метаинформации mp3-файла](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab13)
+14. [Игра жизнь](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab14)
+15. [Архиватор](https://github.com/IISergeyII/IISergeyII-LabsITMO1Sem/tree/master/Lab15)
